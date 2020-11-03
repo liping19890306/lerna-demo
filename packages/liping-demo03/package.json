@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "liping-demo02": "^1.0.1"
-  }
+  },
+  "gitHead": "fcbe05c0e654d9e9ccdc8e896cb727efd7a98317"
 }
