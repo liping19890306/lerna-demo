@@ -1,6 +1,6 @@
 {
   "name": "liping-demo01",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "liping-demo02": "^1.0.1"
+    "liping-demo02": "^1.0.2"
   },
   "gitHead": "fcbe05c0e654d9e9ccdc8e896cb727efd7a98317"
 }
